@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[PCB_THALIA.TXT]
+   Generated File[PCB_THALIA.LDP]
+   Generated File[PCB_THALIA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:58:08 PM On 9/21/2018

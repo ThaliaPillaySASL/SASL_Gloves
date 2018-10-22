@@ -1,0 +1,29 @@
+Added Component: Designator=D2(3.2X1.6X1.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC0805(2012)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13-1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R13-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=PIN5 Pin=D2-1
+Added Pin To Net: NetName=PIN5 Pin=P7-8
+Added Net: Name=PIN5
+Added Member To Class: ClassName=Sheet1 Member=Component D2 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10M 5% 0805(2012)
+Added Member To Class: ClassName=Sheet1 Member=Component R13 240R 5% 0805(2012)
+Added Room: Name=Sheet1

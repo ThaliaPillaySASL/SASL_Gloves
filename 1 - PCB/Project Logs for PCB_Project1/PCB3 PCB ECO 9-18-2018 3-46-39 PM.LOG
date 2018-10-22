@@ -1,0 +1,39 @@
+Added Component: Designator=U1(D0016A_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth(Max)(MHz)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_IPC"; Value = "MS-012 variation AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/cd4051b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "1 X 1:8 MUX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crosstalk"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCHS047G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC(Typ)(mA)"; Value = "0.00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-55 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0016A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "http://www.ti.com/lit/ml/mpds178g/mpds178g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CD4051B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CD4051BM96G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ron(Max)(Ohms)"; Value = "240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ron(Typ)(Ohms)"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_2 Pin=U1-1
+Added Pin To Net: NetName=A0 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=PIN10 Pin=U1-9
+Added Pin To Net: NetName=PIN11 Pin=U1-10
+Added Pin To Net: NetName=PIN12 Pin=U1-11
+Added Pin To Net: NetName=NetP2_2 Pin=U1-12
+Added Pin To Net: NetName=NetP5_2 Pin=U1-13
+Added Pin To Net: NetName=NetP4_2 Pin=U1-14
+Added Pin To Net: NetName=NetP3_2 Pin=U1-15
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Member To Class: ClassName=Sheet1 Member=Component U1 CD4051BM96G3
+Added Room: Name=Sheet1
